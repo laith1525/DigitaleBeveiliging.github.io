@@ -1,0 +1,124 @@
+body
+{
+	background-color: #558C89;
+     
+}
+#container
+{
+	width: 100%;
+}
+.top
+{
+	margin-left: 1,7%;
+	margin-top: 1,7%;
+	width: 100%;
+}
+.ghost
+{
+	padding: 5px;
+	width: 21%;
+	float: left;
+}
+.Logo
+{
+	background-color: #558C89;
+	margin-right: auto;
+	margin-left: auto;
+	width: 79%;
+	font-size: 52px;
+    text-align: center;
+}
+input[type=text] {
+	margin-top: 5px;
+	margin-left: 20px;
+	padding: 5px;
+    width: 50%px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus 
+{
+   	width: 87%;
+}
+input.text[type=text] {
+	margin-top: 5px;
+	margin-left: 20px;
+	padding: 5px;
+    width: 200px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+input.text[type=text]:focus
+{
+
+}
+a:link, a:visited
+{
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+
+a.wikipedia
+{
+	text-decoration: underline;	
+}
+.main
+{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.balk
+{
+	background-color: #D9853B;
+	width: 21%;
+	padding: 5px;
+	float: left;
+	border-radius: 10px;
+	border: px
+}
+.content
+{
+	background-color: #D9853B;
+	width: 53%;
+	float: left;
+	margin-left: 75px;
+	margin-right: 75px;
+	font-size: 18px;
+	padding: 20px;
+}
+.Title
+{
+	margin-top: 10px;
+	height: 40px;
+	border-bottom: 2px dotted;
+}
+.alinea
+{
+	margin-top: 10px;
+}
+li
+{
+	font-size: 20px;
+	padding: 2px;
+}
+.footer
+{
+	margin-top: 612px;
+	width: 100%;
+	background-color: grey;
+	text-align: center;
+	margin-right: 5px;
+}
+.input
+{
+
+}
+
+.img_antivirus
+{ 
+	width:100px;
+	height: 100px;
+}
